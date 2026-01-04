@@ -20,7 +20,7 @@ I build applied AI systems that help industrial teams reduce downtime, improve q
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/CGM-AIML/CGM-AIML.github.io/main/assets/Neurogif.gif"
-    width="520"
+    width="620"
     alt="Neuro Forge animated logo"
   />
 </div>
@@ -36,17 +36,30 @@ I build applied AI systems that help industrial teams reduce downtime, improve q
 [![GITHUB](https://img.shields.io/badge/GITHUB-EAEAEA?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/CGM-AIML)
 
 </div>
-<!-- /CTA BUTTONS -->
+
+<div align="center">
 
 
-## Skills
+### AI / ML
+`Python` `scikit-learn` `PyTorch/TensorFlow` `Feature Engineering` `Model Evaluation`  
+**What I do:** Predictive analytics for reliability + failure risk
 
-| Area | Tools / Methods | What I do |
-|---|---|---|
-| **AI / ML** | Python • scikit-learn • PyTorch/TensorFlow • Feature engineering • Model evaluation | Predictive analytics for reliability + failure risk |
-| **Computer Vision** | OpenCV • CNNs • Object detection/segmentation • Edge deployment basics | Quality inspection + safety detection (defects, PPE, hazards) |
-| **Data** | SQL • ETL • Data modeling • BI dashboards • APIs | Dashboards, alerts, and decision systems |
-| **Industrial Analytics** | Reliability • OEE • Downtime analysis • SPC/Quality • Root cause analysis | Forecasting + optimization for operations |
-| **Delivery** | MLOps • Monitoring • CI/CD (basic) • Documentation • Stakeholder communications | Deployment-ready ML (monitoring, retraining, scaling) |
+### Computer Vision
+`OpenCV` `CNNs` `Detection/Segmentation` `Edge Deployment`  
+**What I do:** Quality inspection + safety detection (defects, PPE, hazards)
+
+### Data
+`SQL` `ETL` `Data Modeling` `BI Dashboards` `APIs`  
+**What I do:** Dashboards, alerts, and decision systems
+
+### Industrial Analytics
+`Reliability` `OEE` `Downtime Analysis` `SPC/Quality` `Root Cause`  
+**What I do:** Forecasting + optimization for operations
+
+### Delivery
+`MLOps` `Monitoring` `CI/CD (basic)` `Documentation` `Stakeholder Comms`  
+**What I do:** Deployment-ready ML (monitoring, retraining, scaling)
 
 <sub><i>NDA-safe note: Some project details and metrics may be anonymized to protect client data.</i></sub>
+
+</div>
