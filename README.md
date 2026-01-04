@@ -13,8 +13,7 @@ I build applied AI systems that help industrial teams reduce downtime, improve q
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CGM-AIML/CGM-AIML.github.io/main/assets/Neurogif.gif" width="520" alt="Neuro Forge animated logo" />
-</div>
+  <img src="https://raw.githubusercontent.com/CGM-AIML/CGM-AIML.github.io/main/assets/Neurogif.gif" ... />
 
 </div>
 <!-- /HERO BANNER -->
