@@ -1,8 +1,13 @@
 <!-- HERO BANNER -->
-<div align="left">
 
-# Chris Gonzalez
-### Owner-Operator, AI Neuro Forge · Industrial AI/ML Leader
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/CGM-AIML/CGM-AIML.github.io/main/assets/banner.png"
+    alt="Neuro Forge banner"
+    width="900"
+  />
+
+<br/>
 
 <p>
 I build applied AI systems that help industrial teams reduce downtime, improve quality, and automate decisions — from data pipelines to production-ready models.
