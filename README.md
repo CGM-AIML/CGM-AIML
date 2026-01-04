@@ -64,4 +64,9 @@
 
 <sub><i>NDA-safe note: Some project details and metrics may be anonymized to protect client data.</i></sub>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CGM-AIML/CGM-AIML.github.io/main/assets/gifgif.gif" width="900" alt="Neuro Forge value animation" />
+</div>
+
+
 </div>
