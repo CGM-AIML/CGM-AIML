@@ -10,9 +10,6 @@
 <br/>
 
 <p>
-I build applied AI systems that help industrial teams reduce downtime, improve quality, and automate decisions — from data pipelines to production-ready models.
-</p>
-
 </div>
 
 <div align="center">
