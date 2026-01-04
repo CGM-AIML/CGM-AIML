@@ -1,7 +1,3 @@
-
-<!--
-**CGM-AIML/CGM-AIML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <!-- HERO BANNER -->
 <div align="left">
 
@@ -17,9 +13,11 @@ I build applied AI systems that help industrial teams reduce downtime, improve q
 </div>
 
 <div align="center">
-  <img src="./assets/Neurogif.gif" width="520" alt="Neuro Forge animated logo" />
+  <img src="https://raw.githubusercontent.com/CGM-AIML/CGM-AIML.github.io/main/assets/Neurogif.gif" width="520" alt="Neuro Forge animated logo" />
 </div>
 
+</div>
+<!-- /HERO BANNER -->
 
 
 <!-- CTA BUTTONS -->
@@ -27,7 +25,7 @@ I build applied AI systems that help industrial teams reduce downtime, improve q
 
 [![WEBSITE](https://img.shields.io/badge/WEBSITE-EAEAEA?style=for-the-badge&logo=googlechrome&logoColor=111111)](https://www.aineuroforge.com)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-EAEAEA?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/christopher-gonzalez-mejias-95aa07231/)
-[![EMAIL](https://img.shields.io/badge/EMAIL-EAEAEA?style=for-the-badge&logo=gmail&logoColor=EA4335)](automationspecialist72@yahoo.com)
+[![EMAIL](https://img.shields.io/badge/EMAIL-EAEAEA?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:automationspecialist72@yahoo.com)
 [![GITHUB](https://img.shields.io/badge/GITHUB-EAEAEA?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/CGM-AIML)
 
 </div>
